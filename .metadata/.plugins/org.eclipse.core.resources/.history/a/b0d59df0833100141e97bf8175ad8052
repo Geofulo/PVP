@@ -1,0 +1,10 @@
+package com.agmcompany.pvp.dao;
+
+public class Carrera {
+	private String nombre;
+	private String descripcion;
+	private String perfil_ingreso;
+	private String perfil_egreso;
+	private int duracion;
+	//private imagen
+}

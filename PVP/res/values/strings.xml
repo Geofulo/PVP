@@ -2,7 +2,10 @@
 <resources>
 
     <string name="app_name">PVP</string>
-    <string name="action_settings">Ajustes</string>
+    
+    <string name="action_ajustes">Ajustes</string>
+    <string name="action_buscar">Buscar</string>
+    
     <string name="tab_trabajos">Trabajos</string>
     <string name="tab_carreras">Carreras</string>
     <string name="tab_escuelas">Escuelas</string>

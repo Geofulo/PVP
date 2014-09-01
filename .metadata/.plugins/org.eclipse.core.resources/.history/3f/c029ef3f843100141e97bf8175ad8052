@@ -1,0 +1,8 @@
+package com.agmcompany.pvp.dao;
+
+public class Institucion {
+	private String nombre;
+	private String lema;
+	private imagen;
+	
+}
