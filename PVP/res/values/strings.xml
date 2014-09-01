@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PVP</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="tab_trabajos">Trabajos</string>
+    <string name="tab_carreras">Carreras</string>
+    <string name="tab_escuelas">Escuelas</string>
+    <string name="tab_instituciones">Instituciones</string>
+    <string name="tab_actividad">Actividad</string>
+
+</resources>
