@@ -1,5 +1,5 @@
 # PVP
 
-PVP is an mobile application for create task to do in a specific location.
+PVP is an mobile application that helps students for find their best career option.
 
 Project developed with Android Studio.
